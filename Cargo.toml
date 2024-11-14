@@ -1,0 +1,11 @@
+[package]
+name = "friendy-spoon"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+lib-name = "friendy_spoon"
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+solana-program = "2.1.0"
