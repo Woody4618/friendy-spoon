@@ -3,7 +3,7 @@ This program is deployed and verified at: 4EMDPYMakiVuCUpsTdw26LkVcGwHUYaJLtXTLx
 Verify command:
 
 ```bash
-solana-verify verify-from-repo https://github.com/Woody4618/friendly-spoon --program-id 4EMDPYMakiVuCUpsTdw26LkVcGwHUYaJLtXTLxCHzPDs
+solana-verify verify-from-repo https://github.com/Woody4618/friendy-spoon/ --program-id 4EMDPYMakiVuCUpsTdw26LkVcGwHUYaJLtXTLxCHzPDs
 ```
 
 Notice how here we do not need a `--mount-path` because the program is directly in the root of the repository.
